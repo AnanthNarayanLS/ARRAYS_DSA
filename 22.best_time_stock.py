@@ -1,4 +1,5 @@
 
+
 def maxprofit(arr):
     left , right = 0 ,1
     max_profit = 0
