@@ -1,3 +1,4 @@
+# to find a subarray with sum equal to zero
 
 from array import *
 
