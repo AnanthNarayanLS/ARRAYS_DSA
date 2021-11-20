@@ -1,4 +1,6 @@
 
+# to find a subarray with sum equal to zero
+
 from array import *
 
 n = int(input("enter the number of values : "))
